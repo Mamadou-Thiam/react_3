@@ -1,0 +1,14 @@
+.play{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.img{
+    width: 700px;
+    height: 700PX;
+}
+
+.cardStyle:hover{
+    transform: scale(1.25);
+}
